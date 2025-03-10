@@ -1,1 +1,0 @@
-# eye-disease-detection
