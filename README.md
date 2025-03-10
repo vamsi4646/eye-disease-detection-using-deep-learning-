@@ -1,1 +1,1 @@
-# eye-disease-detection-using-deep-learning-
+# eye-disease-detection
